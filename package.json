@@ -26,7 +26,7 @@
     "@types/socket.io-client": "^1.4.35",
     "cyclic-router": "^6.0.0",
     "hash.js": "^1.1.7",
-    "socket.io-client": "^4.0.0",
+    "socket.io-client": "^4.0.1",
     "stylus": "^0.54.8",
     "switch-path": "^1.2.0",
     "xstream": "11.x.x"
